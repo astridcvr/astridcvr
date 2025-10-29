@@ -42,7 +42,7 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 ### 📈 GitHub Stats
 <div align="center">
   
-![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=astridcvr&show_icons=true&theme=tokyonight)  
+![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=astridcvr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astridcvr&layout=compact&theme=tokyonight)
 
 </div>
@@ -53,6 +53,13 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 - Machine Learning workflows (EDA → modeling → deployment)  
 - Streamlit for interactive dashboards  
 - Integrating BI with Python automation  
+
+---
+
+### 🔍 Featured Projects
+- [Daily ML Practice](https://github.com/astridcvr/daily-ml-practice) – 1 Commit per Day  
+- [E-commerce Sales Dashboard](https://github.com/astridcvr/ecommerce-dashboard) – Power BI + Python  
+- [Healthcare KPI Analysis](https://github.com/astridcvr/healthcare-kpi)
 
 ---
 
