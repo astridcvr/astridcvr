@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Astrid Villalobos  
+# Hi, I'm Astrid Villalobos  
 **Business & Data Analyst | Machine Learning Enthusiast | Python Developer**
 
 📍 Based in Canada | 🌎 Working remotely  
@@ -10,7 +10,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 Economist & Project Manager turned **Data Analyst**, passionate about transforming data into insights that drive business growth.  
 I have experience in **healthcare, logistics, and e-commerce**, and I enjoy combining **business understanding** with **machine learning** and **data visualization** to solve real-world problems.
 
@@ -23,14 +23,14 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 
 ---
 
-### 🚀 Current Project
+### Current Project
 [**Daily ML Practice – 1 Commit per Day**](https://github.com/astridcvr/daily-ml-practice)  
 *Improving ML skills with e-commerce data (EN/FR bilingual project)*  
 > One small notebook per day to practice data analysis, visualization, and ML models.
 
 ---
 
-### 🧩 Tech Stack
+### Tech Stack
 **Languages:** Learning: Python, SQL, R, JavaScript
 **Data Tools:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Power BI, Tableau  
 **Project Tools:** Jira, Trello, Asana, Git, GitHub Actions  
@@ -39,7 +39,7 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <div align="center">
   
 ![Astrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=astridcvr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
@@ -49,26 +49,26 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Machine Learning workflows (EDA → modeling → deployment)  
 - Streamlit for interactive dashboards  
 - Integrating BI with Python automation  
 
 ---
 
-### 🔍 Featured Projects
+### Featured Projects
 - [Daily ML Practice](https://github.com/astridcvr/daily-ml-practice) – 1 Commit per Day  
 - [E-commerce Sales Dashboard](https://github.com/astridcvr/ecommerce-dashboard) – Power BI + Python  
 - [Healthcare KPI Analysis](https://github.com/astridcvr/healthcare-kpi)
 
 ---
 
-### 💬 Fun Fact
+### Fun Fact
 I love learning new languages — currently improving my **French** 🇫🇷 and exploring **data storytelling** with visuals.
 
 ---
 
-### 🧠 Favorite Quote
+### Favorite Quote
 > *"Data is not just numbers — it’s the story of a business waiting to be told."*  
 
 ---
