@@ -21,7 +21,7 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 - 🤖 Artificial Intelligence applications in business  
 - 💼 Process optimization & performance analysis  
 
----
+----
 
 ### Current Project
 [**Daily ML Practice – 1 Commit per Day**](https://github.com/astridcvr/daily-ml-practice)  
