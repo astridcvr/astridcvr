@@ -32,7 +32,7 @@ I have experience in **healthcare, logistics, and e-commerce**, and I enjoy comb
 
 ### Tech Stack
 **Languages:** Learning: Python, SQL, R, JavaScript
-**Data Tools:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Power BI, Tableau  
+**Data Tools:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Power BI, Tableau
 **Project Tools:** Jira, Trello, Asana, Git, GitHub Actions  
 **Web & Apps:** Streamlit, Flask, Google Colab, Shopify  
 **Other:** Excel (advanced), SAP, MS Project
